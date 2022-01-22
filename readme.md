@@ -16,6 +16,6 @@ test - 1.9150002117385156e-06
 ```
 - copy logs
 - `from timing import review_timing_logs`
-`>>> review_timing_logs("test - 1.9150002117385156e-06")`
+```>>> review_timing_logs("test - 1.9150002117385156e-06")```
 
 - think how to speed up your scripts
